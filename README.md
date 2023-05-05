@@ -80,8 +80,4 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 <a href="https://github.com/Kunal-Khatri-1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kunal-Khatri-1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Kunal-Khatri-1 github-readme-streak-stats"/></a>
 </p>
 
-<p align="center">
-    <a href="">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Kunal-Khatri-1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="Kunal-Khatri-1 activity graph">
-    </a>
-</p>
+[![Kunal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-Khatri-1&theme=react)](https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-Khatri-1&theme=react)
